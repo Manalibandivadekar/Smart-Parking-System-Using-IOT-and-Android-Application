@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "9694087846",
+    "firebase_url": "https://smart-parking-app-30420-default-rtdb.firebaseio.com",
+    "project_id": "smart-parking-app-30420",
+    "storage_bucket": "smart-parking-app-30420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9694087846:android:0db5cbf76ee5663daec267",
+        "android_client_info": {
+          "package_name": "com.example.parking_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Zd9pxcb_FGDb8czLW-UVSB6n0flPcTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
