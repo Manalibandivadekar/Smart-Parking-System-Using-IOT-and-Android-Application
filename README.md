@@ -1,4 +1,4 @@
-# Smart Car Parking With Mobile Application
+# Smart Parking System Using IOT and Android Application
 
 
 
