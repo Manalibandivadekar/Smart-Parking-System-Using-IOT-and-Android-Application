@@ -9,14 +9,5 @@ var pages = [
     page: () => const HomePage(),
     transition: Transition.rightToLeft,
   ),
-  // GetPage(
-  //   name: '/about-us',
-  //   page: () => const AboutUs(),
-  //   transition: Transition.rightToLeft,
-  // ),
-  GetPage(
-    name: '/map-page',
-    page: () => const MapPage(),
-    transition: Transition.fade,
-  ),
+ 
 ];
